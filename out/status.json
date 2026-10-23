@@ -1,0 +1,8 @@
+{
+  "built_at": "2026-10-23T13:48:58Z",
+  "upstream": "https://raw.githubusercontent.com/ithtelab/sr-adblock/release/module/ads-all.srmodule",
+  "upstream_version": "2026-10-06",
+  "rule_count": 2857,
+  "script_count": 230,
+  "mitm_host_removed": "grpc.biliapi.net"
+}
